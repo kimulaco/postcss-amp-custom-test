@@ -1,0 +1,13 @@
+{
+  "name": "v1.4.0-postcss-v7",
+  "version": "v1.4.0-postcss-v7",
+  "private": true,
+  "scripts": {
+    "build": "postcss src/test.css -o dist/test.css"
+  },
+  "devDependencies": {
+    "postcss": "^7.0.35",
+    "postcss-amp-custom": "^1.4.0-alpha.0",
+    "postcss-cli": "^7.1.2"
+  }
+}
