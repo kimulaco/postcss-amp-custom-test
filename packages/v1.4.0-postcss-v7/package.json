@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "postcss": "^7.0.35",
-    "postcss-amp-custom": "^1.4.0-alpha.0",
+    "postcss-amp-custom": "^1.4.0-alpha.4",
     "postcss-cli": "^7.1.2"
   }
 }

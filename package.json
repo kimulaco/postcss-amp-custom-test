@@ -6,10 +6,11 @@
   "author": "kimulaco",
   "license": "ISC",
   "private": true,
-  "workspaces": [
-    "packages/*"
-  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "bootstrap": "lerna bootstrap",
+    "build": "lerna run build"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
   }
 }
